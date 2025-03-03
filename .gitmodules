@@ -1,0 +1,9 @@
+[submodule "wordpress-plugins"]
+	path = wordpress-plugins
+	url = https://github.com/ayodeji2019/vhr.git
+[submodule "core-frontend"]
+	path = core-frontend
+	url = https://github.com/ayodeji2019/vhr.git
+[submodule "core-admin"]
+	path = core-admin
+	url = https://github.com/ayodeji2019/vhr.git
